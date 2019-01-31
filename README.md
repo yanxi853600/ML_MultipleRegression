@@ -3,7 +3,7 @@
 
 > 利用(直線方程式、三次/六次/九次/十二次方程式)擬合數據點
 
-![][https://screenshot.net/tw/wz7q7iz]
+![](https://screenshot.net/tw/wz7q7iz)
 
 > 使用函數 mean_squared_error(MSE)來計算誤差以及截距
 
