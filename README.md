@@ -2,7 +2,8 @@
 ## degree的多項式回歸和訓練樣本數N的關係
 
 > 利用(直線方程式、三次/六次/九次/十二次方程式)擬合數據點
-     ![avatar](D:/1.png)
+
+![][https://screenshot.net/tw/wz7q7iz]
 
 > 使用函數 mean_squared_error(MSE)來計算誤差以及截距
 
