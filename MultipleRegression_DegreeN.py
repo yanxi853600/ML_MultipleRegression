@@ -1,5 +1,5 @@
  
-#請畫出各種degree的多項式回歸和訓練樣本數N的關係
+#各種degree的多項式回歸和訓練樣本數N的關係
 
 
 import numpy as np
